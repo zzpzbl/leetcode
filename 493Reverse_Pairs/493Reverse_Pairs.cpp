@@ -1,6 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/*
+ * 归并排序
+ * */
+
 class Solution
 {
 public:

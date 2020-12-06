@@ -76,7 +76,7 @@ vector<int> maxSequence(vector<int> &nums, int k)
     return ret;
 }
 
-void maxNumber(vector<int> &nums1, vector<int> &nums2, int k)
+vector<int> maxNumber(vector<int> &nums1, vector<int> &nums2, int k)
 {
     int m = nums1.size(), n = nums2.size();
     vector<int> ans(k, 0);
@@ -89,25 +89,10 @@ void maxNumber(vector<int> &nums1, vector<int> &nums2, int k)
             ans.swap(cur);
         }
     }
-    for(auto x : ans) cout << "x " << x << " ";
-    puts("");
+    return ans;
 }
 
 int main()
 {
-    int m, n, k;
-    vector<int> nums1, nums2;
-    int x;
-    cin >> m >> n >> k;
-    for (int i = 0; i < m; ++i)
-    {
-        cin >> x;
-        nums1.push_back(x);
-    }
-    for (int i = 0; i < n; ++i)
-    {
-        cin >> x;
-        nums2.push_back(x);
-    }
-    maxNumber(nums1, nums2, k);
+    return 0;
 }

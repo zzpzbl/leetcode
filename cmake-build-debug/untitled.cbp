@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/lengpi/Desktop/untitled/493Reverse_Pairs/493Reverse_Pairs.cpp">
+		<Unit filename="C:/Users/lengpi/Desktop/untitled/239Sliding_Window_Maximum/239.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/lengpi/Desktop/untitled/621Task_Scheduler.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/lengpi/Desktop/untitled/659Split_Array_into_Consecutive_Subsequences/659.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/lengpi/Desktop/untitled/85Maximal_Rectangle/85(1).cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/lengpi/Desktop/untitled/85Maximal_Rectangle/85(2).cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/lengpi/Desktop/untitled/CMakeLists.txt">
